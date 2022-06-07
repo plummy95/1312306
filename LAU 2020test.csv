@@ -1,4 +1,4 @@
-﻿objectid,lau115cd,lau115nm,year,region,population education,predictedprevalence,% population autistic
+﻿objectid,lau115cd,lau115nm,year,region,population,predictedprevalence,percentageautistic
 72,E07000032,"""Amber Valley""",2020,"""East Midlands""",100841,746,0.74%
 ,E07000004,"""Aylesbury Vale""",2020,"""South East""",138567,783,0.57%
 295,E09000002,"""Barking and Dagenham""",2020,London,137613,"1,307",0.95%
