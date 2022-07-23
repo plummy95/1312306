@@ -1,4 +1,4 @@
-﻿objectid,lau115cd,lau115nm,year,region,population,""" % no qualification""","""% level 1 qualification""",""" % level 2 qualification""",""" % apprenticeship""",""" % level 3 qualification",""" % level 4 and above""",""" % other qualifications"
+﻿objectid,lau115cd,lau115nm,year,region,population,""" % no qualification""","""% level 1 qualification""",""" % level 2 qualification""",""" % apprenticeship""",""" % level 3 qualification",""" % level 4 and above""",""" % other qualifications"""
 72,E07000032,"""Amber Valley""",2020,"""East Midlands""",100841,26.99,13.87,15.5,4.64,11.99,23.15,3.86
 ,E07000004,"""Aylesbury Vale""",2020,"""South East""",138567,17.36,13.78,16.5,3.62,12.19,31.96,4.58
 295,E09000002,"""Barking and Dagenham""",2020,London,137613,27.9,15.19,14.98,2.1,9.27,20.87,9.69
